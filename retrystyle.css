@@ -13,7 +13,7 @@ body {
     transition: all 1s;
 }  
 section.back{
-  background-image: url("file:///home/jai/Personal/retrystartup/header.jpg");
+  background-image: url("header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center;
